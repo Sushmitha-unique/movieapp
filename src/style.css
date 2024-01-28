@@ -1,0 +1,10 @@
+.movietitle{
+    background-color: black;
+    color: tomato;
+    width: fit-content;
+    padding: 10px;
+    margin: 10px;
+}
+.moviedetails{
+    color: purple;
+}
